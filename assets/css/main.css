@@ -1668,7 +1668,7 @@ input, select, textarea {
 }
 
 #img-about{
-	width: 300px;
+	width: 400px;
 	/* margin-left: calc(50% - 150px) */
 }
 
@@ -1681,14 +1681,14 @@ input, select, textarea {
 }
 
 #image-main{
-	display: flex;
-	justify-content: space-evenly;
+	margin-left: calc(50% - 200px);
 }
 
-#container-image{
-	margin-right: 20px;
+#container-img-git{
+	margin-left: calc(50% - 300px);
 }
 
 #img-github{
-	width: 400px;
+	width: 600px;
+	height: 120px;
 }
